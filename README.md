@@ -38,6 +38,3 @@ Full Stack Software Developer and Computer Engineering Student
 ##
 
  ![Snake animation](https://github.com/andersonsbispo/andersonsbispo/blob/output/github-contribution-grid-snake.svg)
- 
- ##
-
