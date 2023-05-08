@@ -23,7 +23,7 @@ Full Stack Software Developer and Computer Engineering Student
 <a href="https://github.com/andersonsbispo" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://github.com/andersonsbispo" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
   
-<img align="right" alt="andersonsbispo-pic" height="150" style="border-radius:50px;" src="https://s7.gifyu.com/images/ALh3.gif">
+<img align="right" alt="andersonsbispo-pic" height="150" style="border-radius:50px;" src="https://jovemnerd.com.br/wp-content/uploads/2016/11/typing.gif">
   
 </p>
 
