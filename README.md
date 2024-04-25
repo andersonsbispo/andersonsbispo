@@ -1,7 +1,7 @@
 Hi 👋 My name is Anderson
 ==========================
 
-Full Stack Software Developer and Computer Engineering Student
+Intern in Business and Process Analysis and Computer Engineering Student
 ---------------------------------------------------------------
 
 <div align="center">
