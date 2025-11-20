@@ -1,7 +1,7 @@
 Hi 👋 My name is Anderson
 ==========================
 
-Intern in Business and Process Analysis and Computer Engineering Student
+Business and Process Analysis and Computer Engineering
 ---------------------------------------------------------------
 
 <div align="center">
